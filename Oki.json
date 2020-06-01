@@ -1,737 +1,737 @@
 [
     {
-        nr: 1,
-        main: "tii chi",
-        en: "1 - One"
+        "nr": 1,
+        "main": "tii chi",
+        "en": "1 - One"
     },
     {
-        nr: 2,
-        main: "taa chi",
-        en: "2 - Two"
+        "nr": 2,
+        "main": "taa chi",
+        "en": "2 - Two"
     },
     {
-        nr: 3,
-        main: "mii chi",
-        en: "3 - Three"
+        "nr": 3,
+        "main": "mii chi",
+        "en": "3 - Three"
     },
     {
-        nr: 4,
-        main: "yuu chi",
-        en: "4 - Four"
+        "nr": 4,
+        "main": "yuu chi",
+        "en": "4 - Four"
     },
     {
-        nr: 5,
-        main: "ichi chi",
-        en: "5 - Five"
+        "nr": 5,
+        "main": "ichi chi",
+        "en": "5 - Five"
     },
     {
-        nr: 6,
-        main: "muu chi",
-        en: "6 - Six"
+        "nr": 6,
+        "main": "muu chi",
+        "en": "6 - Six"
     },
     {
-        nr: 7,
-        main: "nana chi",
-        en: "7 - Seven"
+        "nr": 7,
+        "main": "nana chi",
+        "en": "7 - Seven"
     },
     {
-        nr: 8,
-        main: "yaa chi",
-        en: "8 - Eight"
+        "nr": 8,
+        "main": "yaa chi",
+        "en": "8 - Eight"
     },
     {
-        nr: 9,
-        main: "kuku nuchi",
-        en: "9 - Nine"
+        "nr": 9,
+        "main": "kuku nuchi",
+        "en": "9 - Nine"
     },
     {
-        nr: 10,
-        main: "tuu",
-        en: "10 - Ten"
+        "nr": 10,
+        "main": "tuu",
+        "en": "10 - Ten"
     },
     {
-        nr: 11,
-        main: "hyaa ku",
-        en: "100 - One Hundred"
+        "nr": 11,
+        "main": "hyaa ku",
+        "en": "100 - One Hundred"
     },
     {
-        nr: 12,
-        main: "ukimi soo chii",
-        en: "Good Morning"
+        "nr": 12,
+        "main": "ukimi soo chii",
+        "en": "Good Morning"
     },
     {
-        nr: 13,
-        main: "hai sai",
-        en: "Good day"
+        "nr": 13,
+        "main": "hai sai",
+        "en": "Good day"
     },
     {
-        nr: 14,
-        main: "chuu wuga nabira",
-        en: "Or"
+        "nr": 14,
+        "main": "chuu wuga nabira",
+        "en": "Or"
     },
     {
-        nr: 15,
-        main: "hai sai",
-        en: "Good evening"
+        "nr": 15,
+        "main": "hai sai",
+        "en": "Good evening"
     },
     {
-        nr: 16,
-        main: "uyukuimi soori",
-        en: "Good night"
+        "nr": 16,
+        "main": "uyukuimi soori",
+        "en": "Good night"
     },
     {
-        nr: 17,
-        main: "guburii sabira",
-        en: "Good bye"
+        "nr": 17,
+        "main": "guburii sabira",
+        "en": "Good bye"
     },
     {
-        nr: 18,
-        main: "hajimita wuga nabira",
-        en: "How do you do?"
+        "nr": 18,
+        "main": "hajimita wuga nabira",
+        "en": "How do you do?"
     },
     {
-        nr: 19,
-        main: "uganjuu yami seemi",
-        en: "How are you?"
+        "nr": 19,
+        "main": "uganjuu yami seemi",
+        "en": "How are you?"
     },
     {
-        nr: 20,
-        main: "uu ganjuu sooi biin",
-        en: "Fine thank you."
+        "nr": 20,
+        "main": "uu ganjuu sooi biin",
+        "en": "Fine thank you."
     },
     {
-        nr: 21,
-        main: "nifee deebiru",
-        en: "Thank you very much"
+        "nr": 21,
+        "main": "nifee deebiru",
+        "en": "Thank you very much"
     },
     {
-        nr: 22,
-        main: "chaa bira",
-        en: "I beg your pardon"
+        "nr": 22,
+        "main": "chaa bira",
+        "en": "I beg your pardon"
     },
     {
-        nr: 23,
-        main: "guburii sabura",
-        en: "Excuse me"
+        "nr": 23,
+        "main": "guburii sabura",
+        "en": "Excuse me"
     },
     {
-        nr: 24,
-        main: "guburii sabitan",
-        en: "I'm sorry"
+        "nr": 24,
+        "main": "guburii sabitan",
+        "en": "I'm sorry"
     },
     {
-        nr: 25,
-        main: "shiwaa neebi ran",
-        en: "That's all right"
+        "nr": 25,
+        "main": "shiwaa neebi ran",
+        "en": "That's all right"
     },
     {
-        nr: 26,
-        main: "isujimi sooree",
-        en: "Please hurry"
+        "nr": 26,
+        "main": "isujimi sooree",
+        "en": "Please hurry"
     },
     {
-        nr: 27,
-        main: "yoonnaa shimi sooree",
-        en: "Don't hurry please"
+        "nr": 27,
+        "main": "yoonnaa shimi sooree",
+        "en": "Don't hurry please"
     },
     {
-        nr: 28,
-        main: "kuree nuuyaibiiga",
-        en: "What's this?"
+        "nr": 28,
+        "main": "kuree nuuyaibiiga",
+        "en": "What's this?"
     },
     {
-        nr: 29,
-        main: "uree chassa yai biiga",
-        en: "How much is it?"
+        "nr": 29,
+        "main": "uree chassa yai biiga",
+        "en": "How much is it?"
     },
     {
-        nr: 30,
-        main: "naahin yassa shiga ami seemi",
-        en: "Do you have anything cheaper?"
+        "nr": 30,
+        "main": "naahin yassa shiga ami seemi",
+        "en": "Do you have anything cheaper?"
     },
     {
-        nr: 31,
-        main: "moshi moshi",
-        en: "Hello"
+        "nr": 31,
+        "main": "moshi moshi",
+        "en": "Hello"
     },
     {
-        nr: 32,
-        main: "michael yai biin",
-        en: "This is Michael"
+        "nr": 32,
+        "main": "michael yai biin",
+        "en": "This is Michael"
     },
     {
-        nr: 33,
-        main: "ufee macchi kwimi sooree",
-        en: "Just a minute please"
+        "nr": 33,
+        "main": "ufee macchi kwimi sooree",
+        "en": "Just a minute please"
     },
     {
-        nr: 34,
-        main: "atukara kakiya biisa",
-        en: "I'll call back later"
+        "nr": 34,
+        "main": "atukara kakiya biisa",
+        "en": "I'll call back later"
     },
     {
-        nr: 35,
-        main: "maa san",
-        en: "Delicious"
+        "nr": 35,
+        "main": "maa san",
+        "en": "Delicious"
     },
     {
-        nr: 36,
-        main: "achiisaiibin-do",
-        en: "It's HOT!"
+        "nr": 36,
+        "main": "achiisaiibin-do",
+        "en": "It's HOT!"
     },
     {
-        nr: 37,
-        main: "agaa!!",
-        en: "Ouch!"
+        "nr": 37,
+        "main": "agaa!!",
+        "en": "Ouch!"
     },
     {
-        nr: 38,
-        main: "akisamiyoo!",
-        en: "Expression - Surprise, anger, \"Oh my gawd!\""
+        "nr": 38,
+        "main": "akisamiyoo!",
+        "en": "Expression - Surprise, anger, \"Oh my gawd!\""
     },
     {
-        nr: 39,
-        main: "abiyaa",
-        en: "Person who talks loudly, yelling"
+        "nr": 39,
+        "main": "abiyaa",
+        "en": "Person who talks loudly, yelling"
     },
     {
-        nr: 40,
-        main: "achisan yaa tai",
-        en: "It's hot, isn't it?"
+        "nr": 40,
+        "main": "achisan yaa tai",
+        "en": "It's hot, isn't it?"
     },
     {
-        nr: 41,
-        main: "andagii",
-        en: "Okinawan doughnut"
+        "nr": 41,
+        "main": "andagii",
+        "en": "Okinawan doughnut"
     },
     {
-        nr: 42,
-        main: "anmaa or ayaa",
-        en: "Mother"
+        "nr": 42,
+        "main": "anmaa or ayaa",
+        "en": "Mother"
     },
     {
-        nr: 43,
-        main: "ashitibichi",
-        en: "Pig's feet soup"
+        "nr": 43,
+        "main": "ashitibichi",
+        "en": "Pig's feet soup"
     },
     {
-        nr: 44,
-        main: "chya gan jyuu?",
-        en: "Literally \" Are you healthy?\""
+        "nr": 44,
+        "main": "chya gan jyuu?",
+        "en": "Literally \" Are you healthy?\""
     },
     {
-        nr: 45,
-        main: "chyu uganabira",
-        en: "Good afternoon"
+        "nr": 45,
+        "main": "chyu uganabira",
+        "en": "Good afternoon"
     },
     {
-        nr: 46,
-        main: "chu",
-        en: "Person"
+        "nr": 46,
+        "main": "chu",
+        "en": "Person"
     },
     {
-        nr: 47,
-        main: "chyuura kagi",
-        en: "Good looking"
+        "nr": 47,
+        "main": "chyuura kagi",
+        "en": "Good looking"
     },
     {
-        nr: 48,
-        main: "chaabira sai.",
-        en: "Pardon me. May I come in?\n(Used when entering a home.)"
+        "nr": 48,
+        "main": "chaabira sai.",
+        "en": "Pardon me. May I come in?\n(Used when entering a home.)"
     },
     {
-        nr: 49,
-        main: "chuu uganabira",
-        en: "How do you do?"
+        "nr": 49,
+        "main": "chuu uganabira",
+        "en": "How do you do?"
     },
     {
-        nr: 50,
-        main: "chu (short sound)",
-        en: "People"
+        "nr": 50,
+        "main": "chu (short sound)",
+        "en": "People"
     },
     {
-        nr: 51,
-        main: "chaa ganjuu yaibiimi tai",
-        en: "Have you been well?"
+        "nr": 51,
+        "main": "chaa ganjuu yaibiimi tai",
+        "en": "Have you been well?"
     },
     {
-        nr: 52,
-        main: "deijii",
-        en: "Very(much)"
+        "nr": 52,
+        "main": "deijii",
+        "en": "Very(much)"
     },
     {
-        nr: 53,
-        main: "furaagwa",
-        en: "Crazy person"
+        "nr": 53,
+        "main": "furaagwa",
+        "en": "Crazy person"
     },
     {
-        nr: 54,
-        main: "Gachiimaya",
-        en: "Glutton"
+        "nr": 54,
+        "main": "Gachiimaya",
+        "en": "Glutton"
     },
     {
-        nr: 55,
-        main: "Gaajyan",
-        en: "Mosquito"
+        "nr": 55,
+        "main": "Gaajyan",
+        "en": "Mosquito"
     },
     {
-        nr: 56,
-        main: "Guuburi sabida",
-        en: "Excuse me."
+        "nr": 56,
+        "main": "Guuburi sabida",
+        "en": "Excuse me."
     },
     {
-        nr: 57,
-        main: "Gusuku",
-        en: "Castle"
+        "nr": 57,
+        "main": "Gusuku",
+        "en": "Castle"
     },
     {
-        nr: 58,
-        main: "Guwa",
-        en: "Person"
+        "nr": 58,
+        "main": "Guwa",
+        "en": "Person"
     },
     {
-        nr: 59,
-        main: "Hagoosa",
-        en: "dirty"
+        "nr": 59,
+        "main": "Hagoosa",
+        "en": "dirty"
     },
     {
-        nr: 60,
-        main: "Hai sai",
-        en: "Hello. (everyday greeting)"
+        "nr": 60,
+        "main": "Hai sai",
+        "en": "Hello. (everyday greeting)"
     },
     {
-        nr: 61,
-        main: "Hajimiti uganabira.",
-        en: "I'm glad to meet you."
+        "nr": 61,
+        "main": "Hajimiti uganabira.",
+        "en": "I'm glad to meet you."
     },
     {
-        nr: 62,
-        main: "Il kwaa chichi",
-        en: "Nice weather we are having"
+        "nr": 62,
+        "main": "Il kwaa chichi",
+        "en": "Nice weather we are having"
     },
     {
-        nr: 63,
-        main: "Ii misooree",
-        en: "Please come in."
+        "nr": 63,
+        "main": "Ii misooree",
+        "en": "Please come in."
     },
     {
-        nr: 64,
-        main: "Iichyaa",
-        en: "Intoxicated"
+        "nr": 64,
+        "main": "Iichyaa",
+        "en": "Intoxicated"
     },
     {
-        nr: 65,
-        main: "Inchyaasa",
-        en: "Small/short"
+        "nr": 65,
+        "main": "Inchyaasa",
+        "en": "Small/short"
     },
     {
-        nr: 66,
-        main: "jin",
-        en: "money"
+        "nr": 66,
+        "main": "jin",
+        "en": "money"
     },
     {
-        nr: 67,
-        main: "Jooto",
-        en: "Good (very)"
+        "nr": 67,
+        "main": "Jooto",
+        "en": "Good (very)"
     },
     {
-        nr: 68,
-        main: "Karajii",
-        en: "Hair"
+        "nr": 68,
+        "main": "Karajii",
+        "en": "Hair"
     },
     {
-        nr: 69,
-        main: "kumankai kuuwa",
-        en: "Come here."
+        "nr": 69,
+        "main": "kumankai kuuwa",
+        "en": "Come here."
     },
     {
-        nr: 70,
-        main: "Kuwachi sabida",
-        en: "Said before eating a meal."
+        "nr": 70,
+        "main": "Kuwachi sabida",
+        "en": "Said before eating a meal."
     },
     {
-        nr: 71,
-        main: "Kuwachi sabitan",
-        en: "It was very delicious/ may I be excused."
+        "nr": 71,
+        "main": "Kuwachi sabitan",
+        "en": "It was very delicious/ may I be excused."
     },
     {
-        nr: 72,
-        main: "maa kai ga",
-        en: "Where are you going?"
+        "nr": 72,
+        "main": "maa kai ga",
+        "en": "Where are you going?"
     },
     {
-        nr: 73,
-        main: "magii",
-        en: "Large big"
+        "nr": 73,
+        "main": "magii",
+        "en": "Large big"
     },
     {
-        nr: 74,
-        main: "maasan",
-        en: "Tasty, delicious"
+        "nr": 74,
+        "main": "maasan",
+        "en": "Tasty, delicious"
     },
     {
-        nr: 75,
-        main: "Mataa mensore",
-        en: "Please come back again."
+        "nr": 75,
+        "main": "Mataa mensore",
+        "en": "Please come back again."
     },
     {
-        nr: 76,
-        main: "Mensooree.",
-        en: "Welcome."
+        "nr": 76,
+        "main": "Mensooree.",
+        "en": "Welcome."
     },
     {
-        nr: 77,
-        main: "Muchiku",
-        en: "Bring to me"
+        "nr": 77,
+        "main": "Muchiku",
+        "en": "Bring to me"
     },
     {
-        nr: 78,
-        main: "Nifee deebiru.",
-        en: "Thank you."
+        "nr": 78,
+        "main": "Nifee deebiru.",
+        "en": "Thank you."
     },
     {
-        nr: 79,
-        main: "Nibuii",
-        en: "Sleepy"
+        "nr": 79,
+        "main": "Nibuii",
+        "en": "Sleepy"
     },
     {
-        nr: 80,
-        main: "niibu yaa",
-        en: "Sleepy head"
+        "nr": 80,
+        "main": "niibu yaa",
+        "en": "Sleepy head"
     },
     {
-        nr: 81,
-        main: "ningurugwaa",
-        en: "Sweetheart (besides one's wife); girlfriend"
+        "nr": 81,
+        "main": "ningurugwaa",
+        "en": "Sweetheart (besides one's wife); girlfriend"
     },
     {
-        nr: 82,
-        main: "njichabira",
-        en: "Goodbye"
+        "nr": 82,
+        "main": "njichabira",
+        "en": "Goodbye"
     },
     {
-        nr: 83,
-        main: "Nuchi Du Takara",
-        en: "Life is a treasure."
+        "nr": 83,
+        "main": "Nuchi Du Takara",
+        "en": "Life is a treasure."
     },
     {
-        nr: 84,
-        main: "Nuu sou ga?",
-        en: "What are you doing?"
+        "nr": 84,
+        "main": "Nuu sou ga?",
+        "en": "What are you doing?"
     },
     {
-        nr: 85,
-        main: "Oyoo (Japanese - bunkai)",
-        en: "Application"
+        "nr": 85,
+        "main": "Oyoo (Japanese - bunkai)",
+        "en": "Application"
     },
     {
-        nr: 86,
-        main: "Sai",
-        en: "Honorific Mr. Ms."
+        "nr": 86,
+        "main": "Sai",
+        "en": "Honorific Mr. Ms."
     },
     {
-        nr: 87,
-        main: "Shinshi (Japanese - Sensei)",
-        en: "Teacher"
+        "nr": 87,
+        "main": "Shinshi (Japanese - Sensei)",
+        "en": "Teacher"
     },
     {
-        nr: 88,
-        main: "Ti",
-        en: "Hand"
+        "nr": 88,
+        "main": "Ti",
+        "en": "Hand"
     },
     {
-        nr: 89,
-        main: "Uchina",
-        en: "Okinawa"
+        "nr": 89,
+        "main": "Uchina",
+        "en": "Okinawa"
     },
     {
-        nr: 90,
-        main: "Uchina guchi",
-        en: "The Okinawan language"
+        "nr": 90,
+        "main": "Uchina guchi",
+        "en": "The Okinawan language"
     },
     {
-        nr: 91,
-        main: "Uchinaa-guchi wakai miseemi.",
-        en: "Do you understand Okinawan?"
+        "nr": 91,
+        "main": "Uchinaa-guchi wakai miseemi.",
+        "en": "Do you understand Okinawan?"
     },
     {
-        nr: 92,
-        main: "Uu, ufee wakai biin.",
-        en: "Yes, I understand a little."
+        "nr": 92,
+        "main": "Uu, ufee wakai biin.",
+        "en": "Yes, I understand a little."
     },
     {
-        nr: 93,
-        main: "Uchinanchu",
-        en: "People from Okinawa"
+        "nr": 93,
+        "main": "Uchinanchu",
+        "en": "People from Okinawa"
     },
     {
-        nr: 94,
-        main: "uumaku",
-        en: "Rascal"
+        "nr": 94,
+        "main": "uumaku",
+        "en": "Rascal"
     },
     {
-        nr: 95,
-        main: "Uun",
-        en: "Yes"
+        "nr": 95,
+        "main": "Uun",
+        "en": "Yes"
     },
     {
-        nr: 96,
-        main: "Unjyu",
-        en: "You"
+        "nr": 96,
+        "main": "Unjyu",
+        "en": "You"
     },
     {
-        nr: 97,
-        main: "unju",
-        en: "You (polite)"
+        "nr": 97,
+        "main": "unju",
+        "en": "You (polite)"
     },
     {
-        nr: 98,
-        main: "Unige sabida",
-        en: "Please"
+        "nr": 98,
+        "main": "Unige sabida",
+        "en": "Please"
     },
     {
-        nr: 99,
-        main: "Wakaya bidan",
-        en: "I don't understand"
+        "nr": 99,
+        "main": "Wakaya bidan",
+        "en": "I don't understand"
     },
     {
-        nr: 100,
-        main: "Wakaya bitan",
-        en: "I understand"
+        "nr": 100,
+        "main": "Wakaya bitan",
+        "en": "I understand"
     },
     {
-        nr: 101,
-        main: "Wan",
-        en: "I, me, myself"
+        "nr": 101,
+        "main": "Wan",
+        "en": "I, me, myself"
     },
     {
-        nr: 102,
-        main: "Waraba",
-        en: "Child"
+        "nr": 102,
+        "main": "Waraba",
+        "en": "Child"
     },
     {
-        nr: 103,
-        main: "Wa sai bin",
-        en: "I'm Sorry."
+        "nr": 103,
+        "main": "Wa sai bin",
+        "en": "I'm Sorry."
     },
     {
-        nr: 104,
-        main: "Yamato",
-        en: "Japan"
+        "nr": 104,
+        "main": "Yamato",
+        "en": "Japan"
     },
     {
-        nr: 105,
-        main: "Yamatonchu",
-        en: "Japanese people"
+        "nr": 105,
+        "main": "Yamatonchu",
+        "en": "Japanese people"
     },
     {
-        nr: 106,
-        main: "Yamatoguchi",
-        en: "Japanese language"
+        "nr": 106,
+        "main": "Yamatoguchi",
+        "en": "Japanese language"
     },
     {
-        nr: 107,
-        main: "yanakaagii",
-        en: "Not good looking"
+        "nr": 107,
+        "main": "yanakaagii",
+        "en": "Not good looking"
     },
     {
-        nr: 108,
-        main: "Yanakwaa chichi",
-        en: "Bad weather isn't it?"
+        "nr": 108,
+        "main": "Yanakwaa chichi",
+        "en": "Bad weather isn't it?"
     },
     {
-        nr: 109,
-        main: "Yagui",
-        en: "Loud, noisy"
+        "nr": 109,
+        "main": "Yagui",
+        "en": "Loud, noisy"
     },
     {
-        nr: 110,
-        main: "Yana waraban",
-        en: "Bad child"
+        "nr": 110,
+        "main": "Yana waraban",
+        "en": "Bad child"
     },
     {
-        nr: 111,
-        main: "yukuimisooree",
-        en: "Rest awhile."
+        "nr": 111,
+        "main": "yukuimisooree",
+        "en": "Rest awhile."
     },
     {
-        nr: 112,
-        main: "yuntaku",
-        en: "talkative"
+        "nr": 112,
+        "main": "yuntaku",
+        "en": "talkative"
     },
     {
-        nr: 113,
-        main: "Ataishi turu atairu. ",
-        en: "We get along well with those we can get along with well."
+        "nr": 113,
+        "main": "Ataishi turu atairu. ",
+        "en": "We get along well with those we can get along with well."
     },
     {
-        nr: 114,
-        main: "Achinee ya tankaa mankaa. ",
-        en: "Business is a two-way street."
+        "nr": 114,
+        "main": "Achinee ya tankaa mankaa. ",
+        "en": "Business is a two-way street."
     },
     {
-        nr: 115,
-        main: "Aramun jooguu ya duu ganjuu. ",
-        en: "One who eats plain food is healthy."
+        "nr": 115,
+        "main": "Aramun jooguu ya duu ganjuu. ",
+        "en": "One who eats plain food is healthy."
     },
     {
-        nr: 116,
-        main: "Ichariba choodee.",
-        en: "Once we meet and talk, we are brothers and sisters."
+        "nr": 116,
+        "main": "Ichariba choodee.",
+        "en": "Once we meet and talk, we are brothers and sisters."
     },
     {
-        nr: 117,
-        main: "Uya yushi kwa yushi.",
-        en: "Parents and children teach one another."
+        "nr": 117,
+        "main": "Uya yushi kwa yushi.",
+        "en": "Parents and children teach one another."
     },
     {
-        nr: 118,
-        main: "Kaagee kaa ru ya ru.",
-        en: "Beauty is skin deep."
+        "nr": 118,
+        "main": "Kaagee kaa ru ya ru.",
+        "en": "Beauty is skin deep."
     },
     {
-        nr: 119,
-        main: "Kamuru ussaa mii nayun.",
-        en: "The more you eat, the more you gain."
+        "nr": 119,
+        "main": "Kamuru ussaa mii nayun.",
+        "en": "The more you eat, the more you gain."
     },
     {
-        nr: 120,
-        main: "Kuu sa kana sa. ",
-        en: "Small things are lovable."
+        "nr": 120,
+        "main": "Kuu sa kana sa. ",
+        "en": "Small things are lovable."
     },
     {
-        nr: 121,
-        main: "Kuchi ganga naa ya yakutatan. ",
-        en: "A smooth talker is a good-for-nothing person."
+        "nr": 121,
+        "main": "Kuchi ganga naa ya yakutatan. ",
+        "en": "A smooth talker is a good-for-nothing person."
     },
     {
-        nr: 122,
-        main: "Kutubaa. Jin chikee.",
-        en: "Spend words as efficiently as money."
+        "nr": 122,
+        "main": "Kutubaa. Jin chikee.",
+        "en": "Spend words as efficiently as money."
     },
     {
-        nr: 123,
-        main: "Kutuba noo ushikumaran. ",
-        en: "A word can't be recalled once spoken."
+        "nr": 123,
+        "main": "Kutuba noo ushikumaran. ",
+        "en": "A word can't be recalled once spoken."
     },
     {
-        nr: 124,
-        main: "Shikinoo chui shiihii shiru kurasuru. ",
-        en: "Let's live helping each other in this world."
+        "nr": 124,
+        "main": "Shikinoo chui shiihii shiru kurasuru. ",
+        "en": "Let's live helping each other in this world."
     },
     {
-        nr: 125,
-        main: "Shinjichi nu ada nayumi. ",
-        en: "Kindness will never be wasted in any way."
+        "nr": 125,
+        "main": "Shinjichi nu ada nayumi. ",
+        "en": "Kindness will never be wasted in any way."
     },
     {
-        nr: 126,
-        main: "Jin too waraaran kwa tu ru waraariiru. ",
-        en: "We can laugh happily with our children, but not with money."
+        "nr": 126,
+        "main": "Jin too waraaran kwa tu ru waraariiru. ",
+        "en": "We can laugh happily with our children, but not with money."
     },
     {
-        nr: 127,
-        main: "Chu uyamee ru duu uyamee.",
-        en: " If you respect others, they will respect you."
+        "nr": 127,
+        "main": "Chu uyamee ru duu uyamee.",
+        "en": " If you respect others, they will respect you."
     },
     {
-        nr: 128,
-        main: "Choo kukuru ru dee ichi.",
-        en: "The heart is the most essential human quality."
+        "nr": 128,
+        "main": "Choo kukuru ru dee ichi.",
+        "en": "The heart is the most essential human quality."
     },
     {
-        nr: 129,
-        main: "Tusui ya tatashina mun. Warabee shikashina mun. ",
-        en: "The old should be Treated with due respect. Children should be treated with gentleness."
+        "nr": 129,
+        "main": "Tusui ya tatashina mun. Warabee shikashina mun. ",
+        "en": "The old should be Treated with due respect. Children should be treated with gentleness."
     },
     {
-        nr: 130,
-        main: "Tusui ya takara. ",
-        en: "The old people are treasures to us."
+        "nr": 130,
+        "main": "Tusui ya takara. ",
+        "en": "The old people are treasures to us."
     },
     {
-        nr: 131,
-        main: "Miitundaa duu tichi. ",
-        en: "Man and wife are one flesh."
+        "nr": 131,
+        "main": "Miitundaa duu tichi. ",
+        "en": "Man and wife are one flesh."
     },
     {
-        nr: 132,
-        main: "Nuchi nu sadamee wakaran. ",
-        en: "Only God knows one's term of life."
+        "nr": 132,
+        "main": "Nuchi nu sadamee wakaran. ",
+        "en": "Only God knows one's term of life."
     },
     {
-        nr: 133,
-        main: "Machushi garu ufu iyoo tuyuru. ",
-        en: "One who waits patiently will catch a big fish."
+        "nr": 133,
+        "main": "Machushi garu ufu iyoo tuyuru. ",
+        "en": "One who waits patiently will catch a big fish."
     },
     {
-        nr: 134,
-        main: "Miinai chichi nai. ",
-        en: "We learn by watching and listening."
+        "nr": 134,
+        "main": "Miinai chichi nai. ",
+        "en": "We learn by watching and listening."
     },
     {
-        nr: 135,
-        main: "Mii ya tin niru aru. ",
-        en: "Our fates are as registered by heaven."
+        "nr": 135,
+        "main": "Mii ya tin niru aru. ",
+        "en": "Our fates are as registered by heaven."
     },
     {
-        nr: 136,
-        main: "Munoo yuu iyuru mun. ",
-        en: "Speak well of others."
+        "nr": 136,
+        "main": "Munoo yuu iyuru mun. ",
+        "en": "Speak well of others."
     },
     {
-        nr: 137,
-        main: "Yaasa ru maasaru. ",
-        en: "Food is delicious when one is hungry."
+        "nr": 137,
+        "main": "Yaasa ru maasaru. ",
+        "en": "Food is delicious when one is hungry."
     },
     {
-        nr: 138,
-        main: "Duu nu duu ya duu shiru shiyuru. ",
-        en: "You know your body best."
+        "nr": 138,
+        "main": "Duu nu duu ya duu shiru shiyuru. ",
+        "en": "You know your body best."
     },
     {
-        nr: 139,
-        main: "Choo kani ru deeichi. ",
-        en: "Common sense is essential."
+        "nr": 139,
+        "main": "Choo kani ru deeichi. ",
+        "en": "Common sense is essential."
     },
     {
-        nr: 140,
-        main: "Yii kutoo isugi. ",
-        en: "Do good things quickly."
+        "nr": 140,
+        "main": "Yii kutoo isugi. ",
+        "en": "Do good things quickly."
     },
     {
-        nr: 141,
-        main: "Chira kaagi yaka chimu gukuru.",
-        en: " Kind hearts are better than fair faces."
+        "nr": 141,
+        "main": "Chira kaagi yaka chimu gukuru.",
+        "en": " Kind hearts are better than fair faces."
     },
     {
-        nr: 142,
-        main: "Yuu ya shititin mii ya shitinna. ",
-        en: "Even if you hide yourself from the world, don't lose sight of your real nature."
+        "nr": 142,
+        "main": "Yuu ya shititin mii ya shitinna. ",
+        "en": "Even if you hide yourself from the world, don't lose sight of your real nature."
     },
     {
-        nr: 143,
-        main: "Nmarijima nu kutuba wasshii nee kuni n wasshiin. ",
-        en: "Forgetting your native tongue means forgetting your native country."
+        "nr": 143,
+        "main": "Nmarijima nu kutuba wasshii nee kuni n wasshiin. ",
+        "en": "Forgetting your native tongue means forgetting your native country."
     },
     {
-        nr: 144,
-        main: "Ashibi nu chura saa ninju nu sunawai. ",
-        en: "The more the merrier."
+        "nr": 144,
+        "main": "Ashibi nu chura saa ninju nu sunawai. ",
+        "en": "The more the merrier."
     },
     {
-        nr: 145,
-        main: "Acha nu neen chi ami. ",
-        en: "Tomorrow is a new day."
+        "nr": 145,
+        "main": "Acha nu neen chi ami. ",
+        "en": "Tomorrow is a new day."
     },
     {
-        nr: 146,
-        main: "Yikiga nu kutubaa shuumun gaai. ",
-        en: "A man's word is his honor."
+        "nr": 146,
+        "main": "Yikiga nu kutubaa shuumun gaai. ",
+        "en": "A man's word is his honor."
     },
     {
-        nr: 147,
-        main: "Mookiraa kwee michi shiri. ",
-        en: "Once you have made a fortune, know how to spend it."
+        "nr": 147,
+        "main": "Mookiraa kwee michi shiri. ",
+        "en": "Once you have made a fortune, know how to spend it."
     }
-] 
+]
